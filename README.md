@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saugat Sigdel</h1>
 <h3 align="center">A passionate Web developer from Saskatoon, Canada</h3>
-
-<img src="https://images.app.goo.gl/xeDHwM5YF1wF1FsTA" height="200" width="100"/>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saugatdai" alt="saugatdai" /></a> </p>
 
 - 🔭 I’m currently working on [YS Distributions E Commerce Store](https://github.com/saugatdai/YSDistributions)
